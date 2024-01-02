@@ -1,0 +1,67 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+www.amazon.jobs	TRUE	/	FALSE	1999999999	__Host-mons-sid	258-6927139-7633240
+.amazon.jobs	TRUE	/	FALSE	1999999999	preferred_locale	en-US
+.amazon.jobs	TRUE	/	FALSE	1999999999	amazon_jobs_session	SVgyeUl4aGVQOHAyQ3FDQTZ0NmFramVZWDFqWE1Ubytxc3JENHlYYUw1b1pCb3ByQmZ1eWduc3BQZjhSQmx1RjI4Y3ovSlV0QjFLL0R0U2ZwVWF5S0RGdXV1dHAwSWlYaG14NWV0NjdtaXYrSVJvNDRXQ0ZjZzhPQUQzaFJ2dGVZS0R3NEhITU5JWEsyc2htV0JJN3dFWG1HRDI4Vmg5MWUyS0hxZU4weElFZ1lWTHltSGpMTHRBM2RYYnI4VytwTTdqK0NWSVhrWmxsLytjOG9FbnN1WVJUQkFCRFRkd1hkRFlDUFBCTjJmTT0tLUQyUTBkL2pOQ2YzY3FyUTUzMVpUUFE9PQ%3D%3D--0e110c863b9a561a4aad2c8137b1e63da1311c0f
+.amazon.com	TRUE	/	FALSE	1999999999	ubid-acbus	132-4077294-2139013
+sell.amazon.com	TRUE	/	FALSE	1999999999	as_prefer_lang	en_US
+.amazon.com	TRUE	/	FALSE	1999999999	appstore-devportal-locale	en_US
+go.thehub-amazon.com	TRUE	/	FALSE	1999999999	pardot	deleted
+go.thehub-amazon.com	TRUE	/	FALSE	1999999999	visitor_id431162	814051809
+go.thehub-amazon.com	TRUE	/	FALSE	1999999999	visitor_id431162-hash	ddf1d0ff97bb46e80e283168e804fd6b98561d2a0a2a2c42d78bdd942301ebe70158326c5fbb4680d770c9b3cefde7e291f04559
+go.thehub-amazon.com	TRUE	/	FALSE	1999999999	SameSite	None
+.amazon.com	TRUE	/	FALSE	1999999999	skin	noskin
+.6pm.com	TRUE	/	FALSE	1999999999	zfc	ChUIsKaB3MYxEPK8y4XxPhiwpoHcxjE=
+.6pm.com	TRUE	/	FALSE	1999999999	session-id	139-7381169-9508523
+.6pm.com	TRUE	/	FALSE	1999999999	ubid-main	132-9569408-6372051
+.6pm.com	TRUE	/	FALSE	1999999999	clouddc	east2
+.acx.com	TRUE	/	FALSE	1999999999	session-id	139-2517676-4566936
+.acx.com	TRUE	/	FALSE	1999999999	session-id-time	2082787201l
+.aws.amazon.com	TRUE	/	FALSE	1999999999	aws-priv	eyJ2IjoxLCJldSI6MCwic3QiOjB9
+.amazon.com	TRUE	/	FALSE	1999999999	aws_lang	en
+boxofficemojo.com	TRUE	/	FALSE	1999999999	session-id	132-3592315-4163202
+boxofficemojo.com	TRUE	/	FALSE	1999999999	session-id-time	2082787201l
+www.goodreads.com	TRUE	/	FALSE	1999999999	ccsid	110-4347881-3106244
+www.goodreads.com	TRUE	/	FALSE	1999999999	logged_out_browsing_page_count	1
+www.goodreads.com	TRUE	/	FALSE	1999999999	locale	en
+www.goodreads.com	TRUE	/	FALSE	1999999999	_session_id2	4044ccd07d5c683f70f374057a087a73
+.imdb.com	TRUE	/	FALSE	1999999999	session-id	144-1009472-9344945
+.imdb.com	TRUE	/	FALSE	1999999999	session-id-time	2082787201l
+www.imdb.com	TRUE	/	FALSE	1999999999	next-sid	2JG-O-DWgsznCvbUnfUfD
+www.shopbop.com	TRUE	/	FALSE	1999999999	ASESSIONID	47DE1B8B2BD80B16F004FEB5905F74C5DB37C412092ED750
+shopbop.com	TRUE	/	FALSE	1999999999	session-id	143-3032853-1323142
+shopbop.com	TRUE	/	FALSE	1999999999	session-id-time	2082787201l
+shopbop.com	TRUE	/	FALSE	1999999999	bopVisitorData	H4sIAAAAAAAAACsoSk1zLi0qSs1LrrQNDXbRKQAK+CTmpZcmpqfapubplMVnptgaGRgbmhuZmZgaWxqAVTjnl+aVFFXaunsAACqIrgJBAAAA
+www.shopbop.com	TRUE	/	FALSE	1999999999	SameSite	None
+imdb.com	TRUE	/	FALSE	1999999999	session-id	144-3561586-8969811
+imdb.com	TRUE	/	FALSE	1999999999	session-id-time	2082787201l
+.zappos.com	TRUE	/	FALSE	1999999999	zfc	ChUI76KH3MYxEPeT1uzlBBjvoofcxjE=
+.zappos.com	TRUE	/	FALSE	1999999999	session-id	136-0264784-5002537
+.zappos.com	TRUE	/	FALSE	1999999999	ubid-main	132-0429102-0283863
+.zappos.com	TRUE	/	FALSE	1999999999	clouddc	east2
+www.zappos.com	TRUE	/	FALSE	1999999999	akacd_zappos_prod	1702611019~rv=4~id=b129710b7c985906fd28d00c80381a39
+www.zappos.com	TRUE	/	FALSE	1999999999	SameSite	None
+blinkforhome.com	TRUE	/	FALSE	1999999999	crumb	BQT5Smh9ufzFNTAwZDM1MzMxNThhOTAxODRlYzhlNjIyOTNhZGYy
+.audible.com	TRUE	/	FALSE	1999999999	ubid-main	130-4864293-8247432
+.audible.com	TRUE	/	FALSE	1999999999	session-id	143-5197709-5544138
+www.audible.com	TRUE	/	FALSE	1999999999	lopAdbl	en_US
+.www.audible.com	TRUE	/	FALSE	1999999999	currentSourceCode	AUDGB3781219199RI6_12/15/2023 03:24"
+.www.audible.com	TRUE	/	FALSE	1999999999	originalSourceCode	AUDGB3781219199RI6_12/15/2023 03:24"
+www.audible.com	TRUE	/	FALSE	1999999999	isFirstVisitAdbl	false
+.w3.org	TRUE	/	FALSE	1999999999	__cf_bm	5TTetRDVQvj7Ij5eAVv_4jj4Ys2hh7PLlHjD0taQYeg-1702610833-1-AbzWkQnWpS0XNiv5YgXNUBQKfgaZHcDPZS8cDEi0ic4wTPCYi/8i+JF8APP75pNvE6zItRxR5vPZ0De5104bbHk=
+www.w3.org	TRUE	/	FALSE	1999999999	SameSite	None
+affiliate-program.amazon.com	TRUE	/	FALSE	1999999999	ac-language-preference	en_US
+.amazon.com	TRUE	/	FALSE	1999999999	_rails-root_session	L0FKeTNhZFB3SmY0b1R2dzdldk9wd2ZFYzR6NlVTZmlXTVFTemVuM05abnVWVUlwWUZxdm0xREwyU013WlVyWWJWMTdGUDM3OGE0SGQzTlJ6WEhLQ1RzaGxPSW5tRHRRdHhzTUVkQm5jWlJ4ai9wQ2pLd3ZCZXhPZGM1WEJhSjZPUDNsZ2x6aWNGZHdMSXViZmNoL3NobzJPeFdydmp5M0xPa0tkRElXbHBpU3dLRXA2VDNaL2VxMlk1Ty94ZFZKLS1HakFYUW96ckN6aHF3VGVNcGM2RmpRPT0%3D--ee83f3f1164eb82b238092f87a79ed6e25341f73
+www.amazon.com	TRUE	/	FALSE	1999999999	JSESSIONID	E674FD375BC9CC1B45B452D6CE20542B
+.amazon.com	TRUE	/	FALSE	1999999999	session-token	nPyaCHzZwYgcGDDqnP6DMogQc30l16b4ygCO1TqmXSP/JAmFMNMK1G2Dqm+aqC/EjTiMcSSSgk7Oc4n3rpsImkteW+eMZvH2yaqOKaB0hRBczz3Txw1FqjeI/urdpGptGtyzGIJfTI5608Vx9dnSn7c3udessITj59NemQ9gM/RAfpa3sswqYq+K0E/kW+OLCVJnC5d0+A3jOyFt56OyQxv44rStqVBLAhgm/tOJm+wMmO6teKUB1QcfeTSGov3ongJVpapSZV/Z4o1+e4lcGNDz6rgBCiZrNi/inwryEGrdGqN4zqdA78rnXrkQsTWglipiAuFmb4ImIO+5g8LBQorxPkuTYjuY
+.amazon.com	TRUE	/	FALSE	1999999999	session-token	nPyaCHzZwYgcGDDqnP6DMogQc30l16b4ygCO1TqmXSP/JAmFMNMK1G2Dqm+aqC/EjTiMcSSSgk7Oc4n3rpsImkteW+eMZvH2yaqOKaB0hRBczz3Txw1FqjeI/urdpGptGtyzGIJfTI5608Vx9dnSn7c3udessITj59NemQ9gM/RAfpa3sswqYq+K0E/kW+OLCVJnC5d0+A3jOyFt56OyQxv44rStqVBLAhgm/tOJm+wMmO6teKUB1QcfeTSGov3ongJVpapSZV/Z4o1+e4lcGNDz6rgBCiZrNi/inwryEGrdGqN4zqdA78rnXrkQsTWglipiAuFmb4ImIO+5g8LBQorxPkuTYjuY
+.amazon.com	TRUE	/	FALSE	1999999999	session-token	nPyaCHzZwYgcGDDqnP6DMogQc30l16b4ygCO1TqmXSP/JAmFMNMK1G2Dqm+aqC/EjTiMcSSSgk7Oc4n3rpsImkteW+eMZvH2yaqOKaB0hRBczz3Txw1FqjeI/urdpGptGtyzGIJfTI5608Vx9dnSn7c3udessITj59NemQ9gM/RAfpa3sswqYq+K0E/kW+OLCVJnC5d0+A3jOyFt56OyQxv44rStqVBLAhgm/tOJm+wMmO6teKUB1QcfeTSGov3ongJVpapSZV/Z4o1+e4lcGNDz6rgBCiZrNi/inwryEGrdGqN4zqdA78rnXrkQsTWglipiAuFmb4ImIO+5g8LBQorxPkuTYjuY
+.amazon.com	TRUE	/	FALSE	1999999999	ubid-main	135-6626942-0573423
+.amazon.com	TRUE	/	FALSE	1999999999	lc-main	en_US
+.amazon.com	TRUE	/	FALSE	1999999999	session-id	140-8746157-6621416
+.amazon.com	TRUE	/	FALSE	1999999999	session-id-time	2082787201l
+.amazon.com	TRUE	/	FALSE	1999999999	session-id	141-4968317-0597315
+.amazon.com	TRUE	/	FALSE	1999999999	session-id-time	2082787201l
+.amazon.com	TRUE	/	FALSE	1999999999	i18n-prefs	USD
+.amazon.com	TRUE	/	FALSE	1999999999	sp-cdn	L5Z9:GH"
+
